@@ -4,7 +4,7 @@
 ## Prerequisite Steps (REQUIRED)
 <div>
   <ul>
-    <li>Download Filezilla from <a href="">here</a> and install it!</li>
+    <li>Download Filezilla from <a href="https://filezilla-project.org/download.php?type=client">here</a> and install it!</li>
     <li>Log into Azure Portal.</li>
   </ul>
 </div>
