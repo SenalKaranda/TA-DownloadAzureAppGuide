@@ -1,7 +1,12 @@
 # How to Cove Your Project Blog from Azure ➡️ GitHub
 
 ## Notes:
-Don't worry about my Web App info being exposed in this guide, it's already been deleted 😝
+<div>
+  <ul>
+    <li>Don't worry about my Web App info being exposed in this guide, it's already been deleted 😝</li>
+    <li>If you don't want to keep Filezilla after moving your project, feel free to uninstall it.</li>
+  </ul>
+</div>
 
 ## Prerequisite Steps (REQUIRED)
 <div>
