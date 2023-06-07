@@ -1,5 +1,7 @@
 # How to Cove Your Project Blog from Azure ➡️ GitHub
 
+## Notes:
+Don't worry about my Web App info being exposed in this guide, it's already been deleted 😝
 
 ## Prerequisite Steps (REQUIRED)
 <div>
