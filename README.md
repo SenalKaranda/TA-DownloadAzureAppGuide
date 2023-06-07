@@ -1,4 +1,4 @@
-# How to move your blog from Azure ➡️ GitHub
+# How to Cove Your Project Blog from Azure ➡️ GitHub
 
 
 ## Prerequisite Steps (REQUIRED)
@@ -94,7 +94,8 @@
 <img src="./Images/Step15.png"/>
 
 ## Step 16:
-### Press ```choose your files```, and make sure to press ```Commit changes```
+### Press ```choose your files```, and upload your ```index.html``` 
+### Make sure to press ```Commit changes```
 
 <img src="./Images/Step16.png"/>
 
