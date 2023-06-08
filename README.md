@@ -81,6 +81,7 @@
 
 ## Step 12:
 ### You've successfully downloaded your index file and assets folder!
+#### Note: They will be located in your user folder by default.
 
 <img src="./Images/Step12.png"/>
 
