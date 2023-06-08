@@ -75,11 +75,12 @@
 
 ## Step 11:
 ### Right click your ```index.html``` and press ```Download```
+### Right click your ```assets``` folder and press ```Download```
 
 <img src="./Images/Step11.png"/>
 
 ## Step 12:
-### You've successfully downloaded your index file!
+### You've successfully downloaded your index file and assets folder!
 
 <img src="./Images/Step12.png"/>
 
@@ -101,7 +102,7 @@
 <img src="./Images/Step15.png"/>
 
 ## Step 16:
-### Press ```choose your files```, and upload your ```index.html``` 
+### Press ```choose your files```, and upload your ```index.html```  and your entire ```assets``` folder
 ### Make sure to press ```Commit changes```
 
 <img src="./Images/Step16.png"/>
