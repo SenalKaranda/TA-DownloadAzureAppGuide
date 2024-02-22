@@ -1,4 +1,4 @@
-# How to Cove Your Project Blog from Azure ➡️ GitHub
+# How to Move Your Project Blog from Azure ➡️ GitHub
 
 ## Notes:
 <div>
